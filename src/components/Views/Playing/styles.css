@@ -1,0 +1,12 @@
+.content-playing{
+    width: 90%;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 10px;
+}
+
+.content-playing-table-game{
+    width: 100%;
+    height: 100%;
+}

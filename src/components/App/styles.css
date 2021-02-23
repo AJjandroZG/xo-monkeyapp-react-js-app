@@ -1,0 +1,12 @@
+.content {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 100vh !important;
+  background-color: #1d6802 !important;
+  background-image: url("../../assets/polig.png") !important;
+  background-repeat: no-repeat;
+  background-size: 70% 100%;
+}

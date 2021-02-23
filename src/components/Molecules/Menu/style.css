@@ -1,0 +1,49 @@
+.avatar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background: rgba(255, 255, 255, 0.2) !important;
+  border-color:  rgba(255, 255, 255, 0.2) !important;
+  height: 100%;
+  width: 100%;
+}
+.avatar-menu-text{
+  display: flex !important;
+  flex-direction: column !important;
+  color: black;
+}
+.item-menu{
+  display: flex !important;
+  justify-content: flex-start !important;
+  align-items: center !important;
+  font-size: 20px !important;
+}
+.icon-menu{
+  font-size: 22px !important;
+}
+.side-menu {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  height: 100% !important;
+  overflow: scroll !important;
+  background-color: black !important;
+}
+.side-menu::-webkit-scrollbar {
+  display: none;
+}
+.button-USD {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.image-menu{
+  height: 300px;
+}
+
+.card-info{
+  display: flex !important;
+  justify-content: center !important;
+}

@@ -1,0 +1,7 @@
+export {default as Menu} from "./Menu"
+export {default as Loading} from "./Loading"
+export {default as RecoveryPassword} from "./RecoveryPassword"
+export {default as Users} from "./AllUsers"
+export {default as Notifications} from "./Notifications"
+export {default as TableGame} from "./TableGame"
+export {default as Game} from "./Game"

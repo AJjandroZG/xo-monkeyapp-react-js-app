@@ -1,0 +1,14 @@
+.card-register {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  flex-direction: column !important;
+  width: 240px !important;
+  height: 450px;
+  background-color: white;
+}
+
+.img-register {
+    width: 105px;
+    height: 100px;
+}
